@@ -33,7 +33,5 @@ function submitAnswers(){
 	
 
 	return false;
-
-
-var input = document.getElementById('q1a');
 }
+
